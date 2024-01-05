@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mateusz-Nejman
 - 👀 I’m interested in Motorcycles, Hacking, Chernobyl and of course programming :)
-- 🌱 I’m currently working in Carl Zeiss IQS Software R&D Center and also I am self-employed.
+- 🌱 I’m currently working in Carl Zeiss IQS Software R&D Center.
 - 📫 You can reach me by email (mateusz.nejman@neyolab.com)
 
 <!---
