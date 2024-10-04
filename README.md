@@ -6,7 +6,7 @@
 ## Skills
 ### C#
 - Commercial: (WPF, MVVM)
-- Non-commercial: Monogame, Unity, Xamarin/MAUI
+- Non-commercial: Monogame, Unity, Xamarin/MAUI, Avalonia
 ### C++
 - Commercial: Qt
 - Non-commercial: OpenGL
