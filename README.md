@@ -1,4 +1,5 @@
 ### About Me
+![Me](https://mateusz-nejman.com/img/ibiza-avatar.jpg)
 - 👋 Hi, I’m @Mateusz-Nejman
 - :e-mail: You can reach me by email (mateusz_nejman@hotmail.com)
 - I was born in 1998
