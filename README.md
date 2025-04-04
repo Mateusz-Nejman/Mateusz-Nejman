@@ -1,5 +1,6 @@
 ### About Me
-<img src="https://mateusz-nejman.com/img/ibiza-avatar.jpg" width="256" height="256">
+<img src="https://mateusz-nejman.com/img/ibiza-avatar.jpg" width="512" height="512">
+
 - 👋 Hi, I’m @Mateusz-Nejman
 - :e-mail: You can reach me by email (mateusz_nejman@hotmail.com)
 - I was born in 1998
